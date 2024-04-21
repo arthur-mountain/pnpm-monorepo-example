@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "project-a",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "Run the project-a"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "project-b",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "Run the project-b"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "project-a": "workspace:^0.0.1"
+  }
+}
